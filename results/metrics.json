@@ -1,0 +1,11 @@
+{
+  "project": "Context-Held-Out Perturbation Response",
+  "test_rmse": 0.20623332065743902,
+  "descriptor_only_rmse": 0.9859080242170135,
+  "mean_baseline_rmse": 1.2673752950519062,
+  "heldout_contexts": [
+    6,
+    7
+  ],
+  "scope": "Fictional intervention descriptors, not actionable genetic designs."
+}
